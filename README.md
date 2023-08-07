@@ -1,4 +1,4 @@
-# livewire 3.0 사용해보는 프로젝트
+# livewire 3.0 사용해보기
 
 ## skill
 livewire, laravel, tailwindcss, [영화진흥위원회 OPEN API](https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
